@@ -2,7 +2,7 @@
 
 Aplicação desenvolvida para conectar tatuadores e clientes.
 
-Link App - https://capstone-book-ink.vercel.app/
+Link App - https://capstone-book-ink-ruddy.vercel.app/
 
 Link Server - https://github.com/btrzdev/server-capstone-book-ink
 
